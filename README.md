@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mikarello
 - 👀 CEO of Azure bot : https://discord.gg/azurebot
-- 🌱 I’m currently learning javascript, c+ and python
-- 📫 How to reach me: @mikzmw on instagram, mikZ#1104 on discord.
+- 🌱 I’m currently learning javascript, C++ and C#, Java and Python
+- 📫 How to reach me: @mikzmw on instagram, mikzmw on discord.
